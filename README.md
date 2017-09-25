@@ -1,2 +1,3 @@
 # HelloWorld
-Just a new Repository
+Hi Humans!
+I'm a student,I like coding!
